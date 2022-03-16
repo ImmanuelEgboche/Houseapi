@@ -14,11 +14,11 @@
 
 # Residents
 
-### h3 Get all residents 
+### Get all residents 
 
 - This endpoint retrives all resisdents on sunny road 
 
-### h3 HTTP requests
+### HTTP requests
 
 - GET   path/personal/    - action is index 
 
